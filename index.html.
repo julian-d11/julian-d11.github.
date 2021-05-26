@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Derivado de "Nueva página web"</title>
+        <style>
+            body {
+                background-color: rgb(69, 255, 230);
+            }
+            table {
+                width:100%;
+                border: 1px solid #006;
+            }
+            th, td {
+                width: 25%;
+   text-align: left;
+   vertical-align: top;
+   border: 2px solid #003;
+   border-collapse: collapse;
+   padding: 0.3em;
+   caption-side: bottom;
+            }
+            th, td {
+   background: #eea;
+            }
+            p {
+                font-family: sans-serif;
+            }
+            #official-info {
+            background: rgb(230, 230, 230);
+            width: 70%;
+            height: 180px;
+            overflow-y: auto;
+            overflow-x: hidden;
+            margin: 15px;
+        }
+        div {
+            background: rgb(34, 242, 48);
+            width: 70%;
+            height: 180px;
+            overflow-y: auto;
+            overflow-x: hidden;
+            margin: 15px 0px 10px 6px;
+        }
+        p{
+                border-top: 1px solid rgb(5, 5, 5);
+                border-bottom: 1px solid rgb(0, 0, 0);
+                padding-top: 6px;
+                padding-bottom: 6px;
+            }
+            .YT{
+                color: rgb(255, 62, 3);
+            }
+            .musica{
+                color: rgb(255, 0, 0);
+            }
+        </style>
+    </head>Tú música
+    <h1>Contenido</h1>
+    <p>
+    <ul>
+        <li><a href="#Seven-web"><strong>Entrevista a <em>Seven Kayne</em></strong></a></li>
+        <li><a href="#Bizar-web"><strong>El efecto <em>BIZARRAP</em></strong></a></li>
+       <li><a href="#Khea-web"><strong>La clave de el triunfo de <em>KHEA YF</em></strong></a></li>
+       <li><a href="#Nata-web"><strong>Natanael Cano y <em>"Los corridos Tumbados"</em></strong></a></li>
+       <li><a href="#Paco-web"><strong>Ca7riel y Paco Amoroso y su música</strong></a></li>
+       <li><a href="#OscuVM-web"><strong>Youtubers que cantan</strong></a></li>
+    </ul>
+    <h2 id="Seven-web"><strong>Entrevista a <em>Seven Kayne</em></strong></h2>
+    <p>Juaquin Cordovero mejor conocido como seven kayne es uno de los mejores artistas en lescena del trap Argentino, junto a uno de sus mejores amigos conocido como Khea han salido desde lo más under del trap; nos cuenta como empezo practicando <strong>freestyle</strong> en su casa y cuando ya aprendio a rimar tuvo la valentia de competir por primera vez en un circuito de <strong>freestyle</strong> en una pequeña plaza en <em>buenos aires Argentina.</em>
+        El cantante nos platicó que antes de ser cantante quería ser jugador profesional de el videojuego <em>League of legends</em> (L.O.L) hasta que se dió cuenta que su futuro era la música.</p>
+        <p>
+        Actualmente tiene 19 años y es uno de los pocos cantantes que se toman el momento de meditar, siempre se ha identificado con la energía y esto lo llevo a tatuarse la flecha de Avatar en su brazo izquierdo, también con tan poca edad ha fue uno de los invintados a los premios <em>AMA'S</em> desde <strong>Tu música</strong> le deseamos la mejor de la suerte.</p>
+        <p><em>Y con esto acabamos nuestra primera edición, gracias por su atención.</em></p>
+        <style>
+            h1 {
+                color: rgb(252, 252, 252);
+            }
+        </style>
+    <h1 id="Bizar-web">El efecto <em>bizarrap</em></h1>
+    <p>Para que todos vayan entiendo y estemos en la misma línea les explico, Gonzalo Julián Conde también como conocido como Bizarrap es un productor Argentino el cual comenzó su auge el 2018 mediante a su participación en eventos de Freestyle con sus pistas musicales y luego con sus producciones a diferentes artistas de habla hispana. Se consolido en 2019 cuando muchas de sus producciones alcanzaron millones de vistas en tiempo record y desde entonces los artistas argentinos y de muchos otros países peleaban porque el produjera sus proyectos, pero <strong>¿Qué es el efecto Bizarrap?</strong></p>
+    <p>Hace casi dos años, este productor comenzó con un proyecto el cual llamo “Bizarrap Sessions” en las cuales invitaba artistas del genero urbano y con pistas creadas por el hacían una demostración de su talento. Al principio este proyecto fue apoyado por varios artistas amigos de este productor como el rapero Dani o el mismo <em>Lit Killah</em>, pero, con el tiempo esto se volvió un fenómeno, ya que la receptividad que tienen estos proyectos han sido tan grandes que todos los que aparecen incrementan de forma exponencial sus visualizaciones, suscriptores y hasta sus propuestas comerciales. Por ende con el tiempo esto que comenzó como un proyecto sencillo con un artista, un productor y dos cámaras necesita ahora preludios para anunciar y emocionar aun mas a las personas que ya esperan como locas al próximo artista que entrara en la cabina. Un ejemplo claro de eso es la artista Naty Paluso cuya sesión supero las 170 millones de vistas y artistas como Asan que están casi que entrando al mundo como cantantes triplicaron las vistas en los videos de su propio canal.</p>
+    <h1>Las 3 <em>music sessions más vistas de <strong>BZRP</strong></em></h1>
+    <table>
+           <thead>
+               <tr>
+                   <th>Music Session</th>
+                   <th>Visitas</th>
+               </tr>
+           </thead>
+           <tbody>
+               <tr>
+                   <td>NATHY PELUSO || BZRP Music Sessions #36</td>
+                   <td>212M</td>
+                 
+               </tr>
+               
+               <td>TRUENO || BZRP Freestyle Sessions #6</td>
+                   <td>174M</td>
+                    <tr>
+                   <td>NICKI NICOLE || BZRP Music Sessions #13</td>
+                   <td>140M</td>
+                  
+               </tr>
+           </tbody>
+        </table>
+        <h1 id="Khea-web">La clave de el triunfo de <strong>KHEA</strong> <em>yf</em></h1>
+        <p>En una entrevista para <em>Quebakan</em> le preguntaban al artista cual fue la clave de su exito y el respondio que <em>"ciertamente no hay una clave dice que lo primero es tener talento y ya después de esto la desición la tiene el público por ejemplo en mi caso yo fui lanze un tema y se pegó".</em></p>
+        <h2>Su carrera</h2>
+        <p>Hablar de Khea es sinónimo de hablar de éxito. En apenas tres años que lleva en la industria musical ha tenido la oportunidad de colaborar con Duki, OneRepublic, Blackbear, Bad Bunny,  Tini Stoessel o Piso 21 y de hacer una gira por Europa. En Vavel hemos tenido la oportunidad de charlar con el artista, confinado en casa desde hace más de cuatro meses y nos ha contando sobre su música, de su pasión desde pequeño por ella gracias a sus padres y de cómo ha sido trabajar con Tini y Piso 21. Además ha confesado que está deseando volver a los escenarios, y visitar nuestro país de nuevo.</p>
+        <h2 id="Nata-web">Natanael Cano y <em>"Los corridos tumbados"</em></h2>
+        <p><strong>Natanael Rubén Cano Monje</strong> nació el 01/05/2001  en Hermosillo, Sonora. Inspirado por artistas regionales como Ariel Camacho, Natanael empezó a tocar la guitarra a los 13 años1​ interpretando música como invitado en eventos familiares. De niño quería ser médico pero la música siempre estuvo presente en su vida. Creció en Hermosillo y dejó la preparatoria para hacer una carrera musical.</p>
+        <p>Actualmente es un gran exponente de los corridos tumbados y ha trabajado con grandes artístas como: Big Soto, Aleman, Alejandro Fernandez, ovi, (etc.....) e incluso llevó a el mayor exponente del trap en todo el mundo <em>"BAD BUNNY"</em> al cual lo puso a cantar corridos tumbados en uno de sus más grandes exitos<strong>"Soy el Diablo"</strong>, y recientemente sacó el remix de <em>"Amor tumbado"</em> con Alejandro fernandez.</p>
+        <h2 id="Paco-web"><em>Ca7riel y Paco amoroso y su música</em></h2>
+        <div id="#official-info"><h3>Paco y Ca7o</h3>
+       
+            <p>Estos dos grandes artistas han trasendido la escena Argentina con cu musica, en una entrecista para <em>"Filo news"</em> Ca7riel confesó que la música que ellos hacen no tiene genero, que cada canción viene de un mundo distinto.
+                estos chicos se han dado un lugar en la escena artística ya que tienen un estilo muy crudo y también extrafalario y este se pede evidenciar en todas sus canciones pero más que todo en <em>"ola mina Xd"</em></p></div>
+            <h1 id="OscuVM-web">Youtubers que canatan</h1>
+            <p>En el mundo de internet, más preciso en youtube existen los youtubers, los cuales cada uno son diferentes además de que nos hacen reír y nos alegran en algunos momentos.</p>
+            <p>Aunque sabemos que hay muchos youtubers que cantan nos enfocaremos en dos <em class="fact YT">Oscurlod y pedritovm</em> quienes en el mundo de la música son conocidos como <em class="fact musica">Oscu y Cosmic Kid</em> los cuales también han llegado a ser tendencias por sus canciones pues llegaron al top 1 en Argentina y Uruguay muchos los critican pero no alcanzan a dimensionar el esfuerzo que han hecho por lofrar sus metas desde aquí un saludo para <strong>Oscu y Pedro</strong></p>
+         
+ 
+</html>
